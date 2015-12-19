@@ -17,6 +17,7 @@
 PRODUCT_COPY_FILES += \
     vendor/motorola/ghost/proprietary/bin/adspd:system/bin/adspd \
     vendor/motorola/ghost/proprietary/lib/libaudcal.so:system/lib/libaudcal.so \
+    vendor/motorola/ghost/proprietary/lib/libstlport.so:system/lib/libstlport.so \
     vendor/motorola/ghost/proprietary/etc/firmware/tfa9890.config:system/etc/firmware/tfa9890.config \
     vendor/motorola/ghost/proprietary/etc/firmware/tfa9890.eq:system/etc/firmware/tfa9890.eq \
     vendor/motorola/ghost/proprietary/etc/firmware/tfa9890.speaker:system/etc/firmware/tfa9890.speaker \
